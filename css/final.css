@@ -1,0 +1,472 @@
+div.final {
+    position: absolute;
+    width: 1170px;
+    height: 438px;
+    left: 180px;
+    top: 2384px;
+
+}
+
+p.withus {
+    position: absolute;
+    width: 266px;
+    height: 40px;
+    left: 8%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    color: #222222;
+}
+
+div.lineline {
+    position: absolute;
+    width: 40px;
+    height: 2px;
+    top: 11.5%;
+    left: 3%;
+    background: #222222;
+}
+
+div.office {
+    position: absolute;
+    width: 340px;
+    height: 52px;
+    top: 25%;
+    left: 10%;
+}
+
+div.building {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.moscow {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.email {
+    position: absolute;
+    width: 340px;
+    height: 52px;
+    top: 50%;
+    left: 10%;
+}
+
+div.mailadd {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.pochta {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.seti {
+    position: absolute;
+    width: 340px;
+    height: 52px;
+    top: 75%;
+    left: 10%;
+}
+
+div.sotseti {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+
+div.black1 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 0;
+    top: 90%;
+    background: #222222;
+    border-radius: 2px;
+}
+
+div.black2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 13%;
+    top: 90%;
+    background: #222222;
+    border-radius: 2px;
+}
+
+div.black3 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 26%;
+    top: 90%;
+    background: #222222;
+    border-radius: 2px;
+}
+
+div.time {
+    position: absolute;
+    width: 340px;
+    height: 52px;
+    left: 40%;
+    top: 25%;
+}
+
+div.worktime {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.exacttime {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.numberphone {
+    position: absolute;
+    width: 340px;
+    height: 52px;
+    left: 40%;
+    top: 50%;
+}
+
+div.realnumber {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.ournumber {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.questions {
+    position: absolute;
+    width: 370px;
+    height: 300px;
+    left: 65%;
+    top: 24%;
+
+}
+
+div.textquest {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.footer {
+    position: absolute;
+    width: 100%;
+    height: 209px;
+    left: 0px;
+    top: 2822px;
+
+    margin-top: 1%;
+}
+
+div.footerline {
+    position: absolute;
+    left: 11.81%;
+    right: 11.81%;
+    top: 64.59%;
+    bottom: 34.69%;
+    background: #222222;
+}
+
+div.footertext {
+    position: absolute;
+    left: 11.81%;
+    right: 40.49%;
+    top: 77.03%;
+    bottom: 11.48%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+
+div.pala {
+    position: absolute;
+    left: 77.15%;
+    right: 11.81%;
+    top: 77.03%;
+    bottom: 11.48%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+    text-align: right;
+
+    /* Black */
+
+    color: #222222;
+}
+
+div.nameform {
+    height: 50px;
+    width: 360px;
+    left: 5%;
+    top: 10%;
+}
+
+p.putname {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 12px;
+    /* identical to box height, or 133% */
+
+
+    /* Black */
+
+    color: #222222;
+
+}
+
+input.textareafir {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Grey */
+
+    color: #909090;
+
+}
+
+
+
+div.phonemail {
+    height: 50px;
+    width: 360px;
+    left: 5%;
+    top: 20%;
+}
+
+p.putphone {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 12px;
+    /* identical to box height, or 133% */
+    top: 40%;
+
+    /* Black */
+
+    color: #222222;
+
+}
+
+input.textareasec {
+    position: absolute;
+    top: 50%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Grey */
+
+    color: #909090;
+}
+
+div.bigtext {
+    height: 50px;
+    width: 360px;
+    left: 5%;
+    top: 40%;
+}
+
+p.secbigtext {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 12px;
+    /* identical to box height, or 133% */
+    top: 60%;
+
+    /* Black */
+
+    color: #222222;
+}
+
+input.textareathir {
+    position: absolute;
+    top: 70%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+
+
+    /* Grey */
+
+    color: #909090;
+}
+
+div.person {
+    position: absolute;
+    width: 360px;
+    height: 24px;
+    top: 80%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 12px;
+    /* or 133% */
+
+
+    /* Grey */
+
+    color: #909090;
+}
+
+div.lastbutton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 50px;
+
+    position: absolute;
+    width: 260px;
+    height: 40px;
+    left: 0%;
+    top: 100%;
+
+    /* Black With 30% Transparency */
+
+    border: 1px solid rgba(34, 34, 34, 0.3);
+    box-sizing: border-box;
+}
+
+p.lasttext {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    text-align: center;
+
+    /* Black */
+
+    color: #222222;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}

@@ -1,0 +1,159 @@
+html {
+    overflow-x: hidden;
+}
+
+div.header {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    left: 0px;
+    top: 0px;
+    border-bottom: 2px solid #EBEBEB;
+}
+
+p.main {
+    position: absolute;
+    left: 15.14%;
+    right: 81.18%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+
+p.about {
+    position: absolute;
+    left: 22.29%;
+    right: 72.08%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(34, 34, 34, 0.7);
+    width: 80px;
+
+}
+
+p.service {
+    position: absolute;
+    left: 31.39%;
+    right: 65.56%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(34, 34, 34, 0.7);
+}
+
+p.price {
+    position: absolute;
+    left: 65.83%;
+    right: 31.67%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(34, 34, 34, 0.7);
+}
+
+p.port {
+    position: absolute;
+    left: 71.81%;
+    right: 23.06%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(34, 34, 34, 0.7);
+}
+
+p.contact {
+    position: absolute;
+    left: 80.42%;
+    right: 15.14%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(34, 34, 34, 0.7);
+}
+
+img.logo {
+    position: absolute;
+    left: 48.96%;
+    right: 48.96%;
+    top: 40px;
+    bottom: 34.3%;
+}
+
+div.map {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 86px;
+    height: 100%;
+    border-right: 2px solid #EBEBEB;
+}
+
+img.maplogo {
+    position: absolute;
+    width: 14.55px;
+    height: 16px;
+    left: 1.72px;
+    top: 0px;
+    margin: 40%;
+}
+
+div.phone {
+    position: absolute;
+    left: 94.03%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    width: 86px;
+    height: 100%;
+    border-left: 2px solid #EBEBEB;
+}
+
+img.phonelogo {
+    position: absolute;
+    width: 14.55px;
+    height: 16px;
+    left: 1.72px;
+    top: 0px;
+    margin: 40%;
+}
+a.secondlink{
+    position: absolute;
+    left: 15.14%;
+    right: 81.18%;
+    top: 37.79%;
+    bottom: 38.95%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
